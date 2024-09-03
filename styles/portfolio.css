@@ -6,7 +6,7 @@
 }
 .hero {
   text-align: center;
-  background-color: var(--branding-color);
+  background-color: var(--secondary-color);
   padding: 126px 0px;
 }
 
